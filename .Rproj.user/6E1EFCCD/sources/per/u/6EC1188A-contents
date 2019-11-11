@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+author: "Sitta"
+date: "7/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+head(data)
+
+tes <- data %>% 
+  select_if(is.character)
+test <- lapply(, as.factor)
+```
+

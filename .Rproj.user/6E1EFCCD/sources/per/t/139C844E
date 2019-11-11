@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563956244564.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1611798073",
+    "id" : "139C844E",
+    "lastKnownWriteTime" : 1564016505,
+    "last_content_update" : 1564016505617,
+    "path" : "D:/Algoritma/Sitta/Shiny2.0/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "6,22",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
